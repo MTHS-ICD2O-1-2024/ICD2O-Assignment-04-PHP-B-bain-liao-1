@@ -15,7 +15,7 @@
 }
 
 .mdl-textfield__error {
-  color: #FF0000;
+  color: #F00;
 }
 
 .mdl-textfield--floating-label.is-focused .mdl-textfield__label,
@@ -25,7 +25,7 @@
 }
 
 .page-content {
-  color: #000000;
+  color: #000;
   font-family: "Times New Roman", Times, monospace;
   font-size: 1.25rem;
 }
