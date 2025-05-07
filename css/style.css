@@ -1,4 +1,40 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Bain Liao
+* Created on: Apr 2025
 * This file contains the CSS for index.html
 */
+
+.mdl-layout__header-row {
+  justify-content: center;
+  padding: 0;
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-textfield__error {
+  color: #FF0000;
+}
+
+.mdl-textfield--floating-label.is-focused .mdl-textfield__label,
+.mdl-textfield--floating-label.is-dirty .mdl-textfield__label,
+.mdl-textfield--floating-label.has-placeholder .mdl-textfield__label {
+  color: #929292;
+}
+
+.page-content {
+  color: #000000;
+  font-family: "Times New Roman", Times, monospace;
+  font-size: 1.25rem;
+}
+
+body {
+  background-color: #c5c5c5;
+}
+
+img {
+  float: right;
+  height: 200px;
+}
